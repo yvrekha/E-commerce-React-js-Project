@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container{
+  color : blue;
+  font-size:larger;
+  background-color:darkgreen;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+} 
+.nav-link{
+  background-color:darkgoldenrod;
+  
+}
